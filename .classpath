@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/lucene-core-2.9.0.jar" sourcepath="lib/lucene-2.9.0-src.zip"/>
+	<classpathentry kind="lib" path="lib/lucene-spellchecker-2.9.0.jar" sourcepath="lib/lucene-spellchecker-2.9.0-src.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Documents and Settings/Tim/workspace/cs276-pe1/lib/lucene-spellchecker-2.9.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/commons-codec-1.4.jar" sourcepath="lib/commons-codec-1.4-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
